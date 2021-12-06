@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <nfeProc versao="3.10" xmlns="http://www.portalfiscal.inf.br/nfe">
     <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
-        <infNFe Id="NFe35150300822602000124550010009923461099234656" versao="3.10">
+        <infNFe Id="NFe99999300822602000124550010009923461099234656" versao="3.10">
             <ide>
                 <cUF>35</cUF>
                 <cNF>09923465</cNF>
@@ -45,8 +45,7 @@
                 <CRT>1</CRT>
             </emit>
             <dest>
-                <CNPJ>99999999000191</CNPJ>
-                <xNome>NF-E EMITIDA EM AMBIENTE DE HOMOLOGACAO - SEM VALOR FISCAL</xNome>
+                <CNPJ>0000000000020</CNPJ>
                 <enderDest>
                     <xLgr>Rua Jaragua</xLgr>
                     <nro>774</nro>
